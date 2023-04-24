@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zyam Maqsood.
-- 👀 I’m interested in making Websites.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on Web development tasks.
+- 👀 I’m interested in making Websites and Application.
+- 🌱 I’m currently learning Web development and App Development.
+- 💞️ I’m looking to collaborate on development tasks.
 
 
 <!---
