@@ -9,7 +9,7 @@
 
 🚀 I’m a **Full Stack Developer** focused on **MERN stack** (MongoDB, Express, React, Node)  
 💼 Previously worked with **VB6, VB.NET, Laravel, SQL Server**  
-🔥 Learning React ⚛️ & building real-world projects  
+🔥 Currently working on MERN ⚛️ & building real-world projects  
 🌍 Based in Lahore | Dreaming Big, Hustling Hard  
 💡 Side Hustles: Freelancing, Startups, Bike Tourism  
 📚 Currently grinding on DSA, MERN Jobs, & Interview Prep  
