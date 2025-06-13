@@ -8,12 +8,13 @@
 ---
 
 🚀 I’m a **Full Stack Developer** focused on **MERN stack** (MongoDB, Express, React, Node)  
-💼 Previously worked with **VB6, VB.NET, Laravel, SQL Server**  
-🔥 Currently working on MERN ⚛️ & building real-world projects  
-🌍 Based in Lahore | Dreaming Big, Hustling Hard  
-💡 Side Hustles: Freelancing, Startups, Bike Tourism  
-📚 Currently grinding on DSA, MERN Jobs, & Interview Prep  
-🤝 Let’s connect and collaborate!
+💼 Previously worked as a **Team Lead** handling major hospital software systems in **Ireland**  
+🔧 Tech stack included **VB6, VB.NET, SQL Server, Crystal Reports, PHP/Laravel**  
+🛠️ Built critical modules for lab results, patient management, billing, and reporting  
+👨‍💻 Led a team of **6+ junior devs**, managing both code and chaos  
+🌱 Currently diving deep into MERN, Data Structures & Algorithms (DSA), and deploying full-stack apps  
+🧠 Interested in AI, startups, hybrid motorcycles, and lowkey world domination  
+🌍 Based in **Lahore** | Dreaming Big, Hustling Hard
 
 ---
 
@@ -25,11 +26,31 @@
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-SQL Server-black?style=flat-square&logo=microsoft-sql-server" />
   <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/-SQL Server-black?style=flat-square&logo=microsoft-sql-server" />
+  <img src="https://img.shields.io/badge/-VB.NET-black?style=flat-square&logo=visualstudio" />
+  <img src="https://img.shields.io/badge/-VB6-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-VS Code-black?style=flat-square&logo=visual-studio-code" />
 </p>
+
+---
+
+### 🔙 Previous Work Highlights:
+
+- 🏥 **Hospital Software Systems (Ireland)**  
+  - Developed backend modules for lab test results, bioanalysis, and patient workflows  
+  - Integrated **SQL Server triggers**, **VB6 forms**, and **Crystal Reports**  
+  - Created secure and optimized data pipelines for high-volume medical data  
+
+- 🧑‍🏫 **Team Leadership**  
+  - Mentored and managed junior developers (mostly in VB6 + .NET stack)  
+  - Reviewed code, handled client communication, deployed updates regularly  
+
+- 🧾 **Custom Reporting Systems**  
+  - Designed end-to-end reporting modules using **Crystal Reports + SQL Server**  
+  - Automated hospital billing workflows and generated Excel/CSV exports  
 
 ---
 
@@ -42,15 +63,15 @@
 ---
 
 ### 📫 How to reach me:
-- Email: **yourname@email.com**
-- LinkedIn: [Zyam](https://www.linkedin.com/in/your-link)
-- Fiverr: [Your Gig](https://www.fiverr.com/yourgig)
+- Email: **zyamm7@email.com**
+- LinkedIn: [Zyam](www.linkedin.com/in/zyam-maqsood-166227271)
+- Fiverr: [My Gig](https://www.fiverr.com/s/gDwND0a)
 - Portfolio: Coming soon!
 
 ---
 
 ### 💬 Fun Fact:
-I code by day, dream startups by night, and my bike knows all my life problems 🏍️🔥
+I can debug legacy VB6 code in my sleep, pitch startup ideas over chai, and my motorcycle has seen more soul-searching journeys than Google Maps 🏍️🔥
 
 ---
 
