@@ -13,8 +13,7 @@
 🛠️ Built critical modules for lab results, patient management, billing, and reporting  
 👨‍💻 Led a team of **6+ junior devs**  
 🌱 Currently diving deep into MERN, Data Structures & Algorithms (DSA), and deploying full-stack apps  
-🧠 Interested in AI, startups, hybrid motorcycles, and lowkey world domination  
-🌍 Based in **Lahore** | Dreaming Big, Hustling Hard
+🌍 Based in **Lahore** | Dreaming Big  
 
 ---
 
