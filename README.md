@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-VS Code-black?style=flat-square&logo=react-native" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel" />
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/-VB.NET-black?style=flat-square&logo=visualstudio" />
   <img src="https://img.shields.io/badge/-VB6-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-VS Code-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-VS Code-black?style=flat-square&logo=visual-studio-code" />  
 </p>
 
 ---
