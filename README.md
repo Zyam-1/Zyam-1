@@ -65,13 +65,5 @@
 ### 📫 How to reach me:
 - Email: **zyamm7@email.com**
 - LinkedIn: [Zyam](www.linkedin.com/in/zyam-maqsood-166227271)
-- Fiverr: [My Gig](https://www.fiverr.com/s/gDwND0a)
-- Portfolio: Coming soon!
 
----
-
-### 💬 Fun Fact:
-I can debug legacy VB6 code in my sleep, pitch startup ideas over chai, and my motorcycle has seen more soul-searching journeys than Google Maps 🏍️🔥
-
----
 
